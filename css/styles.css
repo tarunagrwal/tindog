@@ -173,5 +173,11 @@ p {
     .footer-icon {
         margin: 2%;
     }
-    
+    .container-fluid {
+        padding: 7% 3%;
+    }
+    #title .container-fluid {
+        padding: 3% 3% 7%;
+        text-align: left;
+    }    
 }
